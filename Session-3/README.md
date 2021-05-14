@@ -9,7 +9,8 @@
   * [GitHub](https://github.com/chaaklau/school-of-cantonese-2021-materials/blob/main/chaak_sfp_2021_05_16.ipynb)
 
 * 11:00 - 12:00 Multiword Expressions / Discontinuous Constructions (Charles Lam)
-  * [Google Colab](https://colab.research.google.com/drive/172P0us_wkZOjW-jgV94Ng-TLLoeHCEbi?usp=sharing)
+  * [Google Colab](https://colab.research.google.com/github/charlestklam/school-of-cantonese-studies-2021/blob/main/Multiword_Expressions_Discontinuous_Constructions.ipynb)
+  * [Github](https://github.com/charlestklam/school-of-cantonese-studies-2021/blob/main/Multiword_Expressions_Discontinuous_Constructions.ipynb)
 
 We would like to remind participants of session 3 to:
 1. prepare a google log in and
